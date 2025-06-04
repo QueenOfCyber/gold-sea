@@ -1,2 +1,2 @@
 # gold-sea
-Demo for starting out
+Demo for starting out!
